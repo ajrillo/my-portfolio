@@ -175,3 +175,7 @@ a {
 a:hover, a:focus, a:active {
   color:  #009b77 ;
 }
+
+.portfolioitem{
+  padding-bottom: 15px;
+}
